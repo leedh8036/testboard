@@ -23,6 +23,7 @@ else {
 ?>
 	<br><a href="../bbs/write.php" class = "btn">글 작성</a>
 	<br><a href="../bbs/list.php" class = "btn">글 목록</a>
+	<br><a href="../member/logout.php" class = "btn">로그 아웃</a>
     </body>
 </html> 
 

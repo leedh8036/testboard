@@ -30,6 +30,8 @@ include $_SERVER['DOCUMENT_ROOT'].'/header.php';
     
 
 </form>
+
+<a href="../bbs/list.php" class = "btn">이전</a>
         
 <?php
     include $_SERVER['DOCUMENT_ROOT'].'/footer.php';
